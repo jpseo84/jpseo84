@@ -1,7 +1,7 @@
 # Jay Jupyo Seo
 
 ## About
-Experienced Auditor and Data Analyst with a strong focus on leveraging data analytics in audit and risk management. Specializes in SOX controls, IT audits, risk management, and conducting comprehensive data-driven audits. Holds senior manager positions in BDO and KPMG, with past roles in different industries/organizations. Proven proficiency in Python, Perl, Excel, ACL, IDEA, SAP, and Oracle ERP used for complex data analysis and audit engagements. Certified Internal Auditor (IIA) and Information Systems Auditor (ISACA). Find me on [LinkedIn](https://www.linkedin.com/in/jupyoseo/) for more detailed professional information.
+Experienced Auditor and Data Analyst with a strong focus on leveraging data analytics in audit and risk management. Specializes in SOX controls, IT audits, risk management, and conducting comprehensive data-driven audits. Holds director position in BDO Korea, with past roles in KPMG and different industries/organizations. Proven proficiency in Python, Perl, Excel, ACL, IDEA, SAP, and Oracle ERP used for complex data analysis and audit engagements. Certified Internal Auditor (IIA) and Information Systems Auditor (ISACA). Find me on [LinkedIn](https://www.linkedin.com/in/jupyoseo/) for more detailed professional information.
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/jupyoseo/">
