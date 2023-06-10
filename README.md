@@ -19,5 +19,5 @@ Experienced Auditor and Data Analyst with a strong focus on leveraging data anal
 - Assistant Audit Manager, Operational Audit, Otis - United Technologies (2011 - 2016): Conducted internal audits, and coordinated Sarbanes-Oxley(SOX) 404 requirements.
 
 ### My Projects
-* [Extractor](https://github.com/jpseo84/extractor) - Perl-based scripts developed to extract specific lines from a large text file, mainly used for data analytics tasks.
-* [Crypto-Audit](https://github.com/jpseo84/crypto-audit) - Set of Python-based scripts to streamline cryptocurrency related audits and other agreed upon procedure engagements.
+* [Perl-Data-Toolkit](https://github.com/jpseo84/PerlDataToolKit) - Perl-based scripts developed to extract specific lines from a large text file, mainly used for data analytics tasks.
+* [Crypto-Audit-Toolkit](https://github.com/jpseo84/CryptoAuditToolKit) - Set of Python-based scripts to streamline cryptocurrency related audits and other agreed upon procedure engagements.
