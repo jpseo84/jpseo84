@@ -20,4 +20,4 @@ Experienced Auditor and Data Analyst with a strong focus on leveraging data anal
 
 ### My Projects
 * [Extractor](https://github.com/jpseo84/extractor) - Perl-based scripts developed to extract specific lines from a large text file, mainly used for data analytics tasks.
-* [Crypto Balance Check](https://github.com/jpseo84/crypto-balance-check) - A Python-based script developed to streamline cryptocurrency audit and due-diligence tasks.
+* [Crypto-Audit](https://github.com/jpseo84/crypto-audit) - Set of Python-based scripts to streamline cryptocurrency related audits and other agreed upon procedure engagements.
