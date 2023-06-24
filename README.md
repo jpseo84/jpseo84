@@ -16,8 +16,9 @@ Experienced Auditor and Data Analyst with a strong focus on leveraging data anal
 - Director, DA, BDO (2022 - Current): Specialized in SOX engagements, IT controls & Cybersecurity consulting, third-party assurance, anti-fraud programs, and data analytics.
 - Senior Manager, IRM, KPMG (2018 - 2022): Managed IT audit engagements and used data analytics for financial record testing.
 - Risk Analyst, ERM PMO, Amore Pacific (2016 - 2018): Performed corporate risk assessments and developed risk management frameworks based on the COSO ERM framework.
-- Assistant Audit Manager, Operational Audit, Otis - United Technologies (2011 - 2016): Conducted internal audits, and coordinated Sarbanes-Oxley(SOX) 404 requirements.
+- Assistant Audit Manager, Operational Audit, Otis - United Technologies (2011 - 2016): Conducted internal audits and managed Sarbanes-Oxley(SOX) 404 requirements.
 
 ### My Projects
 * [Perl-Data-Toolkit](https://github.com/jpseo84/PerlDataToolKit) - Perl-based scripts developed to extract specific lines from a large text file, mainly used for data analytics tasks.
 * [Crypto-Audit-Toolkit](https://github.com/jpseo84/CryptoAuditToolKit) - Set of Python-based scripts to streamline cryptocurrency related audits and other agreed upon procedure engagements.
+* [Data-Analytics-Toolkit](https://github.com/jpseo84/DataAnalyticsToolkit) - Set of Python-based scripts to automated data analytics procedures used in audits.
