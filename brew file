@@ -1,0 +1,18 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+
+brew "ffmpeg"
+brew "p7zip"
+brew "python@3.11"
+brew "sevenzip"
+brew "youtube-dl"
+
+cask "dbeaver-community"
+cask "firefox"
+cask "gnucash"
+cask "google-chrome"
+cask "iina"
+cask "macfuse"
+cask "scroll-reverser"
+cask "textmate"
