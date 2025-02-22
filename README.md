@@ -7,13 +7,13 @@ Experienced Auditor and Data Analyst with a strong focus on leveraging data anal
    <a href="https://www.linkedin.com/in/jupyoseo/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/jxs1231">
+   <a href="https://t.me/jxs84">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 </p>
 
 ### Key Roles & Experiences
-- Director, DA, BDO (2022 - Current): Specialized in SOX engagements, IT controls & Cybersecurity consulting, third-party assurance, anti-fraud programs, and data analytics.
+- Director, DA, BDO (2022 - 2025): Specialized in SOX engagements, IT controls & Cybersecurity consulting, third-party assurance, anti-fraud programs, and data analytics.
 - Senior Manager, IRM, KPMG (2018 - 2022): Managed IT audit engagements and used data analytics for financial record testing.
 - Risk Analyst, ERM PMO, Amore Pacific (2016 - 2018): Performed corporate risk assessments and developed risk management frameworks based on the COSO ERM framework.
 - Assistant Audit Manager, Operational Audit, Otis - United Technologies (2011 - 2016): Conducted internal audits and managed Sarbanes-Oxley(SOX) 404 requirements.
